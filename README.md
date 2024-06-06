@@ -8,7 +8,6 @@ Welcome to the `E2E-NLP-Project` repository! This project demonstrates an end-to
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
