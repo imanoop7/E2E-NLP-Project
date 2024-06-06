@@ -11,8 +11,6 @@ Welcome to the `E2E-NLP-Project` repository! This project demonstrates an end-to
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
-- [Disclaimer](#disclaimer)
-- [Links](#links)
 
 ## Overview
 
