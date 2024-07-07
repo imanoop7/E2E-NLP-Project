@@ -11,8 +11,6 @@ Welcome to the `E2E-NLP-Project` repository! This project demonstrates an end-to
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
-- [Disclaimer](#disclaimer)
-- [Links](#links)
 
 ## Overview
 
@@ -60,6 +58,7 @@ Clone the repository and install the required packages:
 - `call_api`.py: Python script to call the API and test the endpoints.
 - `requirements.txt`: File listing all the dependencies.
 
+  
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements, bug fixes, or suggestions.
 
